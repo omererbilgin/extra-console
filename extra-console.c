@@ -1,30 +1,4 @@
-/* Introduction
 
-   The ideas main aim is to constitute a new, in this case terminal, console which is going to comprise
-   all useful commands and automated arguements for them. Considering every person has different work
-   to do and different programs to run, this idea can be materialized for an individual person. In comparison
-   with CMD, the linux terminal is much more easier to work with so I am going to write my sample code, about 
-   this idea, based on the linux system.
-*/
-
-
-/* Notes of the sample code:
-
-1- This code is going to include some functions I would like to automate as a command
-and the main goal of the functions are going to execute the 'bash scripts' which will
-be involved on the project besides of this main script
-
-2- I wont use structures or pointers because it is not necessary. But considering a
-bigger project, I strongly believe that OOP(object-oriented-programming) and structures
-will efficacy the legibleness vastly.
-
-3- I used rand() and srand() in the r1() function to determine random events but I dont 
-recommend them for of the reason that they can cause security issues.
-
-4- For more convinient working and reading, I will write the line numbers as a comment 
-next to the functions that callee
-
-*/
 
 //libraries----------------------------------------------------------------------------------------
 #include <stdio.h>
