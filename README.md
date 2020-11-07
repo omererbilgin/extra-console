@@ -1,4 +1,4 @@
-# extra-console
+# The Idea of Automating Basic Computer Processes
 
 # Introduction
 
@@ -7,7 +7,7 @@
  To continue, I would like to argue that without automated programs,the efforts we put in our daily work can be considered as being primitive and redundant, and can be obviated with coding. The assertion isn't quitting sports and turning into robots, but unnecessary effort spent every second isn't very beneficial and, I would say, the enemy of intellect. To explain the phrase 'enemy of intellect' furthermore, every time we spend time on something that we could have automated before, it is a waste of time and effort. If the person repeats doing the same behavior over and over, the person is not using his/her intellectual abilities effectively.  
 
 
-# About the Code
+# About the Sample Project (extra-console)
 
  The sample project, namely the extra-console, comprises some functions that will save me from spending extra effort. It also includes some interesting abilities like I mentioned earlier while I was speaking about automated coding in the introduction section. The extra-console is written in pure C and extended with Python to do such intriguing things that I couldn't figure out how to do with C. Along with, the code uses the system() function too much and includes, for the macchanger, shell script so it is platform specific.
  
